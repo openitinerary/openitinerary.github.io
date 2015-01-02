@@ -4,8 +4,7 @@
 ###What it is:
 *Open*travel is meant to be an gratis, libre, more beautiful alternative to sites such as [wikivoyage](https://en.wikivoyage.org/wiki/Main_Page).  The project aims to provide a readable, beautiful, yet quick set of itineraries with approximate prices and times presented up-front. 
 
-![video demo, mk 2](http://a.pomf.se/euofsv.mp4)
-
+![image demo, mk I](http://a.pomf.se/ygawoc.gif)
 
 Because I am the sole writer and contributor to the project, progress will be slow. Here's a to-do:
 
