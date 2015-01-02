@@ -2,7 +2,7 @@
 ==========
 
 ###What it is:
-*Open*travel is meant to be an gratis, libre, more beautiful alternative to sites such as [wikivoyage](https://en.wikivoyage.org/wiki/Main_Page).  The project aims to provide a readable, beautiful, yet quick set of itineraries with approximate prices and times presented up-front. 
+*Open*travel is meant to be an gratis, libre, more beautiful alternative to sites such as [wikivoyage](https://en.wikivoyage.org/wiki/Main_Page).  The project aims to provide a readable, beautiful, yet quick set of itineraries with approximate prices and times presented up-front. I decided that, because I am only able to do *so* much on my own time, that this project could best be served as a community effort, in which the community helps by supplying the destination, and recommendations for the itnerary, and we try and fit it all in!
 
 ![image demo, mk I](http://a.pomf.se/ygawoc.gif)
 
@@ -13,10 +13,11 @@ Because I am the sole writer and contributor to the project, progress will be sl
 |---|---|
 | started the project |:ballot_box_with_check: (done)|
 | Replace all the crappy lorem ipsum from the articles that are 'done' |:waxing_crescent_moon: (just starting)|
+| Unfuck the navbar in the new page |:new_moon:|
 | South America intro cities (Rio, etc.) |:new_moon: (Not started yet)|
 | Asia intro cities (Shanghai, etc.) |:new_moon:|
 | add more to the To-Do section |:new_moon:|
-|  |:new_moon:|
+| Have people sugest additions, etc. |:new_moon:|
 |  |:new_moon:|
 |  |:new_moon:|
 |  |:new_moon:|
